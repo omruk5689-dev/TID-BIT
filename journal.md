@@ -3,6 +3,8 @@
 **Time spent: 3 hours**
 **software used **
 easyeda 
+some components i used dosent have footprint in easyeda so i created that before cuasse i was working on some other projects aswell
+
 <img width="1390" height="617" alt="Screenshot 2026-11-01 214530" src="https://github.com/user-attachments/assets/be58a69c-4b72-40e6-859f-5d5cd1f8aa2d" />
 
 
